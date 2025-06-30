@@ -2,7 +2,7 @@
 **Tutorial on creating a vector database with an open-source library.**
 
 ## Installation
-### Git Clone
+### Git Repository
 ```bash
 git clone https://github.com/wjsrlahrlco1998/easy-vector.git
 ```
@@ -12,3 +12,7 @@ git clone https://github.com/wjsrlahrlco1998/easy-vector.git
 pip install -r requirements.txt
 ```
 
+### Quick Start
+```bash
+jupyter-lab -p 8888 --allow-root --NotebookApp.token=""
+```

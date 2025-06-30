@@ -1,5 +1,5 @@
 # Easy Vector
-**Tutorial on creating a vector database with an open-source library.**
+**Tutorial on creating a vector database with an open-source library**
 
 ## Installation
 ### Git Repository
